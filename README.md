@@ -22,7 +22,7 @@ https://wordpress.org/plugins/display-widgets/
 
 [advanced-custom-field-export.xml](https://github.com/mcurren/acf-meetup-examples/blob/master/advanced-custom-field-export.xml "Event Details ACF Field Group")
 
-### Shortcodes Used in Widget
+### Shortcodes & HTML Used in Widget
 
     <strong>Date</strong>  
     [acf field=event_date]
