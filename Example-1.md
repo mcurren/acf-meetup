@@ -20,8 +20,11 @@ https://wordpress.org/plugins/display-widgets/
 
 ## Shortcodes Used in Widget
 
-    **Date** [acf field=event_date]
+    <strong>Date</strong>  
+    [acf field=event_date]
 
-    **Time** [acf field=event_time]
+    <strong>Time</strong>  
+    [acf field=event_time]
 
-    **Venue** [acf field=event_address]
+    <strong>Venue</strong>  
+    [acf field=event_address]
