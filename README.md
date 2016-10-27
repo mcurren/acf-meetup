@@ -16,7 +16,7 @@ https://wordpress.org/plugins/display-widgets/
 
 ## Field Group Used
 
-(link)
+[advanced-custom-field-export.xml](https://github.com/mcurren/acf-meetup-examples/blob/master/advanced-custom-field-export.xml "Event Details ACF Field Group")
 
 ## Shortcodes Used in Widget
 
@@ -38,6 +38,10 @@ Make an "event" landing page for the same fictional company by adding custom met
 
 ### Advanced Custom Fields
 https://wordpress.org/plugins/advanced-custom-fields/
+
+## Field Group Used
+
+[advanced-custom-field-export.xml](https://github.com/mcurren/acf-meetup-examples/blob/master/advanced-custom-field-export.xml "Event Details ACF Field Group")
 
 ## Template Tags Used in Widget
 
