@@ -1,24 +1,28 @@
-# Example #1
+# Level Up Your Life With Custom Meta
 
-## How to use ACF *shortcodes* on your site to show your custom meta field values.
+An introduction to the **Advanced Custom Fields** plugin for the MSP Wordpress Meetup Group
+
+## Example #1
+
+### How to use ACF *shortcodes* on your site to show your custom meta field values
 Make an "event" post for a fictional company by adding custom meta values for the "event" to a sidebar widget that appears only on Wordpress Posts that have the category *Event*.
 
-## Plugins Used
+### Plugins Used
 
-### Advanced Custom Fields
+#### Advanced Custom Fields
 https://wordpress.org/plugins/advanced-custom-fields/
 
-### Shortcode Widget plugin
+#### Shortcode Widget plugin
 https://wordpress.org/plugins/shortcode-widget/
 
-### Display Widgets plugin
+#### Display Widgets plugin
 https://wordpress.org/plugins/display-widgets/
 
-## Field Group Used
+### Field Group Used
 
 [advanced-custom-field-export.xml](https://github.com/mcurren/acf-meetup-examples/blob/master/advanced-custom-field-export.xml "Event Details ACF Field Group")
 
-## Shortcodes Used in Widget
+### Shortcodes Used in Widget
 
     <strong>Date</strong>  
     [acf field=event_date]
@@ -29,21 +33,21 @@ https://wordpress.org/plugins/display-widgets/
     <strong>Venue</strong>  
     [acf field=event_address]
 
-# Example #2
+## Example #2
 
-## How to use ACF *template tags* on your site to show your custom meta field values.
+### How to use ACF *template tags* on your site to show your custom meta field values
 Make an "event" landing page for the same fictional company by adding custom meta values for the "event" to a custom page template in your child theme.
 
-## Plugins Used
+### Plugins Used
 
-### Advanced Custom Fields
+#### Advanced Custom Fields
 https://wordpress.org/plugins/advanced-custom-fields/
 
-## Field Group Used
+### Field Group Used
 
 [advanced-custom-field-export.xml](https://github.com/mcurren/acf-meetup-examples/blob/master/advanced-custom-field-export.xml "Event Details ACF Field Group")
 
-## Template Tags Used in Widget
+### Template Tags Used in Widget
 
     <div class="event-details">
 
