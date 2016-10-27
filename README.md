@@ -70,3 +70,15 @@ https://wordpress.org/plugins/advanced-custom-fields/
 
     </div><!-- .event-details -->
 
+## Other Links/Notes
+
+#### ACF PRO Version 
+$25 (1 site license) – $100 (Unlimited sites license)
+
+https://www.advancedcustomfields.com/pro/
+
+#### ACF Documentation 
+https://www.advancedcustomfields.com/resources/
+
+#### ACF 3rd-party add-on plugin roundup on Github 
+https://github.com/navidkashani/awesome-acf
