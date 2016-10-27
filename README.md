@@ -1,6 +1,6 @@
 # Level Up Your Life With Custom Meta
 
-An introduction to the **Advanced Custom Fields** plugin for the MSP Wordpress Meetup Group
+An introduction to the **Advanced Custom Fields** plugin for the MSP Wordpress Meetup Group.
 
 ## Example #1
 
