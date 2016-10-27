@@ -47,20 +47,26 @@ https://wordpress.org/plugins/advanced-custom-fields/
 
 [advanced-custom-field-export.xml](https://github.com/mcurren/acf-meetup-examples/blob/master/advanced-custom-field-export.xml "Event Details ACF Field Group")
 
-### Template Tags Used in Widget
+### Template Tags & HTML Used in Page Template
 
     <div class="event-details">
 
         <h3>Event Details</h3>
 
-        <h4>Date</h4>
-        <p><?php the_field('event_date'); ?></p>
+        <p>
+            <strong>Date</strong><br>
+            <?php the_field('event_date'); ?>
+        </p>
 
-        <h4>Time</h4>
-        <p><?php the_field('event_time'); ?></p>
+        <p>
+            <strong>Time</strong><br>
+            <?php the_field('event_time'); ?>
+        </p>
 
-        <h4>Location</h4>
-        <p><?php the_field('event_address'); ?></p>
+        <p>
+            <strong>Location</strong><br>
+            <?php the_field('event_address'); ?>
+        </p>
 
     </div><!-- .event-details -->
 
